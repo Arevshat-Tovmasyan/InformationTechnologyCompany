@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj",
       "projectName": "InformationTechnologyCompany",
-      "projectPath": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\InformationTechnologyCompany\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\InformationTechnologyCompany\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
