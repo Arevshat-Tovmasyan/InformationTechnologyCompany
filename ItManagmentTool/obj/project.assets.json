@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\ItManagmentTool\\ItManagmentTool.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\ItManagmentTool\\ItManagmentTool.csproj",
       "projectName": "ItManagmentTool",
-      "projectPath": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\ItManagmentTool\\ItManagmentTool.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\ItManagmentTool\\ItManagmentTool.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\ItManagmentTool\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\ItManagmentTool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\C#\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj"
+            "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\github\\InformationTechnologyCompany\\InformationTechnologyCompany\\InformationTechnologyCompany.csproj"
             }
           }
         }
